@@ -1,0 +1,15 @@
+{
+  "name": "atgeo/mod-three-fsm",
+  "description": "Finite State Machine that computes binary mod 3",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^12"
+  },
+  "scripts": {
+    "modthree": "php modThree.php"
+  }
+}
