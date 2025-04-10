@@ -5,6 +5,7 @@ This project implements a Finite State Machine (FSM) in PHP that computes the mo
 ## Requirements
 
 - Docker
+- Make
 
 ## Getting Started
 
